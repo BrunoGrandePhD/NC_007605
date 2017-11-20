@@ -34,8 +34,6 @@ NC_007605.1	RefSeq	exon	871	951	.	+	.	ID=id7;Parent=gene0;Dbxref=GeneID:17494212
 NC_007605.1	RefSeq	exon	1026	1196	.	+	.	ID=id8;Parent=gene0;Dbxref=GeneID:17494212;exon_number=6;gbkey=exon;gene=LMP2;number=6
 NC_007605.1	RefSeq	exon	1280	1495	.	+	.	ID=id9;Parent=gene0;Dbxref=GeneID:17494212;exon_number=7;gbkey=exon;gene=LMP2;number=7
 NC_007605.1	RefSeq	exon	1574	1682	.	+	.	ID=id10;Parent=gene0;Dbxref=GeneID:17494212;exon_number=8;gbkey=exon;gene=LMP2;number=8
-NC_007605.1	RefSeq	exon	5408	5856	.	+	.	ID=id11;Parent=gene0;Dbxref=GeneID:17494212;exon_number=9;gbkey=exon;gene=LMP2;number=9
-NC_007605.1	RefSeq	exon	11626	11657	.	+	.	ID=id12;Parent=gene0;Dbxref=GeneID:17494212;exon_number=C2;gbkey=exon;gene=LMP2;number=C2
 NC_007605.1	RefSeq	sequence_feature	6629	6795	.	+	.	ID=id13;Dbxref=GeneID:17494212;Note=Pol III RNA EBER 1;gbkey=misc_feature;gene=LMP2
 NC_007605.1	RefSeq	sequence_feature	6956	7128	.	+	.	ID=id14;Dbxref=GeneID:17494212;Note=Pol III RNA EBER 2;gbkey=misc_feature;gene=LMP2
 NC_007605.1	RefSeq	sequence_feature	9021	9133	.	+	.	ID=id15;Dbxref=GeneID:17494212;Note=HPN: dyad symmetry%2C site II for EBNA-1 binding%3B~dyad symmetry part of oriP;gbkey=misc_feature;gene=LMP2

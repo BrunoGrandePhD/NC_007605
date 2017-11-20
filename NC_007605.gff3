@@ -21,11 +21,12 @@ NC_007605.1	RefSeq	CDS	1574	1680	.	+	2	ID=cds1;Parent=gene0;Dbxref=GOA:P13285,In
 NC_007605.1	RefSeq	CDS	101916	103757	.	+	0	ID=cds2;Parent=gene0;Dbxref=GOA:P03213,InterPro:IPR002660,UniProtKB/Swiss-Prot:P03213,Genbank:YP_401682.1,GeneID:17494212;Name=YP_401682.1;Note=BBRF1;gbkey=CDS;gene=LMP2;product=virion protein BBRF1;protein_id=YP_401682.1
 NC_007605.1	RefSeq	CDS	112650	113585	.	+	0	ID=cds3;Parent=gene0;Dbxref=GOA:P03219,InterPro:IPR003498,InterPro:IPR003499,UniProtKB/Swiss-Prot:P03219,Genbank:YP_401690.1,GeneID:17494212;Name=YP_401690.1;Note=spliced BGRF1/BDRF1 reading frame;gbkey=CDS;gene=LMP2;product=BGRF1-BDRF1 protein;protein_id=YP_401690.1
 NC_007605.1	RefSeq	CDS	116927	118063	.	+	0	ID=cds3;Parent=gene0;Dbxref=GOA:P03219,InterPro:IPR003498,InterPro:IPR003499,UniProtKB/Swiss-Prot:P03219,Genbank:YP_401690.1,GeneID:17494212;Name=YP_401690.1;Note=spliced BGRF1/BDRF1 reading frame;gbkey=CDS;gene=LMP2;product=BGRF1-BDRF1 protein;protein_id=YP_401690.1
-NC_007605.1	RefSeq	mRNA	79950	82960	.	+	.	ID=rna0;Parent=gene0;Dbxref=GeneID:17494212;gbkey=mRNA;gene=LMP2;product=EBNA3A nuclear protein
-NC_007605.1	RefSeq	exon	79950	80293	.	+	.	ID=id2;Parent=rna0;Dbxref=GeneID:17494212;gbkey=mRNA;gene=LMP2;product=EBNA3A nuclear protein
-NC_007605.1	RefSeq	exon	80382	82960	.	+	.	ID=id3;Parent=rna0;Dbxref=GeneID:17494212;gbkey=mRNA;gene=LMP2;product=EBNA3A nuclear protein
-NC_007605.1	RefSeq	CDS	79955	80293	.	+	0	ID=cds4;Parent=rna0;Dbxref=GOA:P12977,InterPro:IPR007706,PDB:1M05,PDB:1XR8,UniProtKB/Swiss-Prot:P12977,Genbank:YP_401669.1,GeneID:17494212;Name=YP_401669.1;gbkey=CDS;gene=LMP2;product=EBNA3A nuclear protein;protein_id=YP_401669.1
-NC_007605.1	RefSeq	CDS	80382	82877	.	+	0	ID=cds4;Parent=rna0;Dbxref=GOA:P12977,InterPro:IPR007706,PDB:1M05,PDB:1XR8,UniProtKB/Swiss-Prot:P12977,Genbank:YP_401669.1,GeneID:17494212;Name=YP_401669.1;gbkey=CDS;gene=LMP2;product=EBNA3A nuclear protein;protein_id=YP_401669.1
+NC_007605.1	RefSeq	gene	79950	82960	.	+	.	ID=gene152;Dbxref=GeneID:17494212;Name=EBNA3A;gbkey=Gene;gene=EBNA3A;gene_biotype=protein_coding
+NC_007605.1	RefSeq	mRNA	79950	82960	.	+	.	ID=rna0;Parent=gene152;Dbxref=GeneID:17494212;gbkey=mRNA;gene=EBNA3A;product=EBNA3A nuclear protein
+NC_007605.1	RefSeq	exon	79950	80293	.	+	.	ID=id2;Parent=rna0;Dbxref=GeneID:17494212;gbkey=mRNA;gene=EBNA3A;product=EBNA3A nuclear protein
+NC_007605.1	RefSeq	exon	80382	82960	.	+	.	ID=id3;Parent=rna0;Dbxref=GeneID:17494212;gbkey=mRNA;gene=EBNA3A;product=EBNA3A nuclear protein
+NC_007605.1	RefSeq	CDS	79955	80293	.	+	0	ID=cds4;Parent=rna0;Dbxref=GOA:P12977,InterPro:IPR007706,PDB:1M05,PDB:1XR8,UniProtKB/Swiss-Prot:P12977,Genbank:YP_401669.1,GeneID:17494212;Name=YP_401669.1;gbkey=CDS;gene=EBNA3A;product=EBNA3A nuclear protein;protein_id=YP_401669.1
+NC_007605.1	RefSeq	CDS	80382	82877	.	+	0	ID=cds4;Parent=rna0;Dbxref=GOA:P12977,InterPro:IPR007706,PDB:1M05,PDB:1XR8,UniProtKB/Swiss-Prot:P12977,Genbank:YP_401669.1,GeneID:17494212;Name=YP_401669.1;gbkey=CDS;gene=EBNA3A;product=EBNA3A nuclear protein;protein_id=YP_401669.1
 NC_007605.1	RefSeq	exon	58	272	.	+	.	ID=id4;Parent=gene0;Dbxref=GeneID:17494212;exon_number=2;gbkey=exon;gene=LMP2;number=2
 NC_007605.1	RefSeq	exon	360	458	.	+	.	ID=id5;Parent=gene0;Dbxref=GeneID:17494212;exon_number=3;gbkey=exon;gene=LMP2;number=3
 NC_007605.1	RefSeq	exon	540	788	.	+	.	ID=id6;Parent=gene0;Dbxref=GeneID:17494212;exon_number=4;gbkey=exon;gene=LMP2;number=4

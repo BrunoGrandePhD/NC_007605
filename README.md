@@ -14,4 +14,5 @@ in detail in the commit messages.
    transcript that was considered because it was the longest (944 aa compared
    to 497 and 378 aa for LMP2A and LMP2B, respectively). We created a new gene
    entry in the GFF3 file for EBNA3A and marked it as the parent for the EBNA3A
-   transcript.
+   transcript. See [`ad4b15cd`](https://github.com/brunogrande/NC_007605/commit/ad4b15cd560deb194f3f5b4089d0c9887719f5c6) 
+   for more details.
